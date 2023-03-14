@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+body {
+    background-color: #CC0824;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23CC0824' width='11' height='11'/%3E%3Crect fill='%23c90526' x='10' width='11' height='11'/%3E%3Crect fill='%23c70328' y='10' width='11' height='11'/%3E%3Crect fill='%23c4022a' x='20' width='11' height='11'/%3E%3Crect fill='%23c2002c' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23bf002e' y='20' width='11' height='11'/%3E%3Crect fill='%23bc0030' x='30' width='11' height='11'/%3E%3Crect fill='%23b90031' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23b60033' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23b30034' y='30' width='11' height='11'/%3E%3Crect fill='%23b00136' x='40' width='11' height='11'/%3E%3Crect fill='%23ad0237' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23aa0338' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23a70439' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23a4063a' y='40' width='11' height='11'/%3E%3Crect fill='%23a1073b' x='50' width='11' height='11'/%3E%3Crect fill='%239e093c' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%239a0b3d' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23970d3d' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23940e3e' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%2390103e' y='50' width='11' height='11'/%3E%3Crect fill='%238d113f' x='60' width='11' height='11'/%3E%3Crect fill='%238a133f' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23861440' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23831540' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%237f1640' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%237c1740' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23791840' x='70' width='11' height='11'/%3E%3Crect fill='%23751940' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23721a40' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%236e1b3f' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%236b1b3f' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23671c3e' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23641c3e' x='80' width='11' height='11'/%3E%3Crect fill='%23611d3d' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%235d1d3d' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%235a1d3c' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23571e3b' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23531e3a' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23501e39' x='90' width='11' height='11'/%3E%3Crect fill='%234d1e38' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%234a1e37' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23461e36' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23431e35' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23401e33' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%233d1e32' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%233a1e30' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23371d2f' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23341d2d' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23311d2c' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%232f1c2a' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%232c1c28' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23291b26' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23261b24' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23241a22' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23211a20' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%231f191e' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%231d181c' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%231a181a' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23181718' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode:forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.logo {
+    object-fit: contain;
+    width: 120px;
+    height: 30px;
+}
+
+.navbar {
+    height: 70px;
+    font-family: 'Almarai', sans-serif;
+
+}
+
+.logo-text {
+    font-weight: 800;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-center {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+
+}
+
+.container1 {
+    width: 500px;
+    margin: 0 480px;
+
+}
+
+.superhero__container {
+    background-color: black;
+    width: 330px;
+    height: 450px;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: 40px;
+    overflow: scroll;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.superhero__container::-webkit-scrollbar {
+    width: 6px;
+}
+
+.superhero__container::-webkit-scrollbar-track {
+    background-color: whitesmoke;
+    -webkit-box-shadow: inset 0 0 6px rgb(12, 11, 11);
+    border-radius: 10px;
+}
+
+.superhero__container::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgb(255, 255, 255);
+}
+
+.superhero__image {
+    width: 330px;
+    height: 250px;
+    position: relative;
+    border-radius: 5px;
+}
+
+
+.hero__container {
+    background-color: black;
+    width: 330px;
+    height: 450px;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: 40px;
+    overflow: scroll;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.hero__container::-webkit-scrollbar {
+    width: 6px;
+}
+
+.hero__container::-webkit-scrollbar-track {
+    background-color: whitesmoke;
+    -webkit-box-shadow: inset 0 0 6px rgb(12, 11, 11);
+    border-radius: 10px;
+}
+
+.hero__container::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgb(255, 255, 255);
+}
+
+
+
+.superhero__p {
+    text-align: justify;
+    font-size: 12px;
+    text-align: justify;
+    color: whitesmoke;
+    text-decoration: none;
+    position: relative;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.superhero__name {
+    color: whitesmoke;
+    font-family: 'Almarai', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.superhero__a {
+    text-decoration: none;
+}
+
+.superhero__appearences {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.superhero__appearences1 {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 700;
+
+}
